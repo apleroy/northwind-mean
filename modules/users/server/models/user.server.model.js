@@ -15,6 +15,7 @@ var mongoose = require('mongoose'),
 owasp.config(config.shared.owasp);
 
 
+
 /**
  * A Validation function for local strategy properties
  */
